@@ -1,8 +1,21 @@
 # Atividades e Critérios de aprovação
 
-Os objetivos de aprendizagem desta disciplina serão avaliados através das seguintes atividades: 
+Esta disciplina será composta por **quatro etapas**: 
 
-...
+* **O que é empreender? O que é empreender em IA?**: neste bloco, cada estudante do curso deverá compreender o que é empreendedorismo, entender a situação atual e futura da IA, entender a lógica de investimento de VC e entender as demandas que o mercado tem sobre IA. Deverá aprender a relacionar-se com investidores e como expandir a sua rede de relacionamentos. Entregas deste bloco:
+    * descrição de um problema que pode ser resolvido com IA;
+    * ...
+
+* **O que é impactado pela sua solução?**: neste bloco, cada estudante deverá compreender como montar uma equipe. As equipes deverão mapear o tamanho da oportunidade, melhorar o entendimento do problema e a definição da solução. Além disso, deverão ser capazes de comunicar todos estes pontos para possíveis investidores. Entregas deste bloco: 
+    * lean canvas para a oportunidade identificada;
+    * ... 
+
+* **Como desenvolver soluções baseadas em IA?**: 
+
+
+* **Venda contínua da solução**: 
+
+
 
 ## Conversão de conceito para valor numérico
 

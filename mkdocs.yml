@@ -13,10 +13,11 @@ nav:
   - 'Home': 'index.md'
   - 'Ementa': 'ementa.md'
   - 'Plano de Aula': 'plano_de_aulas.md'
-  - 'Critérios para Aprovação': 'avaliacao.md'
+  - 'Avaliação': 'avaliacao.md'
   - 'Aulas':
-    - 'Introdução':
+    - 'Empreendedorismo':
       - 'aulas/01_empreendedorismo/index.md'
+      - 'aulas/02_empreendedorismo/index.md'
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
