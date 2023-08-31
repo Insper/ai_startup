@@ -4,7 +4,7 @@ Em um cenário onde a inovação é essencial e a inteligência artificial redef
 
 # Ementa
 
-O que é empreendedorismo. Impactos atuais e futuros da Inteligência Artificial. ...
+O que é empreendedorismo. Impactos atuais e futuros da Inteligência Artificial. ... **TBD**
 
 
 ## Objetivos
@@ -19,18 +19,14 @@ Ao final da disciplina o estudante será capaz de:
 
 ## Conteúdo Programático
 
-1.  
+1.  **TBD**
 
 
 ## Bibliografia Básica
 
-Livros:
-
-1. 
+1. **TBD**
 
 
 ## Bibliografia Complementar
 
-Livros:
-
-1. 
+1.  **TBD**

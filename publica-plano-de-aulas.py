@@ -1,27 +1,50 @@
-# import tabulate
-# import pandas as pd
-
-# t1 = pd.read_excel('plano-de-aulas.xlsx')
-# #t1['Data'] = t1['Data'].apply(lambda x: x.strftime('%d/%m'))
-
-# with open('docs/_snippets/plano_aula.md', 'w') as f:
-#     tabela_str = tabulate.tabulate(t1[['Data', 'Questão/Problema/Desafio',
-# 'Fundamentos / Conteúdo', 'Evidências de Aprendizado', 'Programação/Atividades']], headers=['Data', 'Questão',
-# 'Conteúdo', 'Evidências de Aprendizado', 'Atividades'], tablefmt='html', showindex=False)
-#     f.write(tabela_str)
-
 import pandas as pd
 from pretty_html_table import build_table
 
+def redefine_strong(tabela):
+    tabela = tabela.replace('&lt;strong&gt;','<strong>')
+    tabela = tabela.replace('&lt;/strong&gt;','</strong>')
+    return tabela
+
 df = pd.read_excel('plano-de-aulas.xlsx')
-html_table_blue_light = build_table(df[[
+
+parte1 = build_table(df.iloc[0:7][[
     'Data', 'Questão',
     'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
-    color='blue_light')
+    color='blue_dark')
+parte1 = redefine_strong(parte1)
 
-html_table_blue_light = html_table_blue_light.replace('&lt;strong&gt;','<strong>')
-html_table_blue_light = html_table_blue_light.replace('&lt;/strong&gt;','</strong>')
+with open('docs/_snippets/plano_aula_1.md', 'w') as f:
+    f.write(parte1)
 
-# Save to html file
-with open('docs/_snippets/plano_aula.md', 'w') as f:
-    f.write(html_table_blue_light)
+parte2 = build_table(df.iloc[7:12][[
+    'Data', 'Questão',
+    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    color='yellow_dark')
+
+parte2 = redefine_strong(parte2)
+
+with open('docs/_snippets/plano_aula_2.md', 'w') as f:
+    f.write(parte2)
+
+
+parte3 = build_table(df.iloc[12:18][[
+    'Data', 'Questão',
+    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    color='green_dark')
+
+parte3 = redefine_strong(parte3)
+
+with open('docs/_snippets/plano_aula_3.md', 'w') as f:
+    f.write(parte3)
+
+
+parte4 = build_table(df.iloc[18:][[
+    'Data', 'Questão',
+    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    color='red_dark')
+
+parte4 = redefine_strong(parte4)
+
+with open('docs/_snippets/plano_aula_4.md', 'w') as f:
+    f.write(parte4)

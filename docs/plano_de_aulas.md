@@ -1,5 +1,24 @@
 # Plano de aula
 
-As seguintes atividades estão planejadas. O programa está sempre sujeito a alterações e adaptações conforme as disciplina é executada.
+O plano de aula desta disciplina está divido em **quatro** (4) blocos. Para cada bloco as seguintes atividades estão planejadas.
 
---8<-- "plano_aula.md"
+??? "Atenção!"
+
+    O programa está sempre sujeito a alterações e adaptações conforme as disciplina é executada.
+
+
+## Empreendedorismo 
+
+--8<-- "plano_aula_1.md"
+
+## O que é impactado pela sua solução?  
+
+--8<-- "plano_aula_2.md"
+
+## Como desenvolver soluções de IA?
+
+--8<-- "plano_aula_3.md"
+
+## Desenvolvimento da solução
+
+--8<-- "plano_aula_4.md"
