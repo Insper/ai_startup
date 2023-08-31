@@ -6,10 +6,8 @@ tabulate
 requests
 pandas
 openpyxl
-pytest
-pylint
 mkdocs-jupyter
-kaggle-environments
 pretty_html_table
+
 
 
