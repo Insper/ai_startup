@@ -4,7 +4,7 @@ Em um cenário onde a inovação é essencial e a inteligência artificial redef
 
 # Ementa
 
-O que é empreendedorismo. Impactos atuais e futuros da Inteligência Artificial. ... **TBD**
+O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial; Desenvolvimento de startups na visão dos investidores; Desenvolvimento de Lean canvas; Apresentação do *pitch Problem-Solution-Opportunity*; Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD), e; Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento (i.e., desenvolvimento de código de forma colaborativa, testes automatizados, padronização de código e documentação).  
 
 
 ## Objetivos
@@ -19,7 +19,19 @@ Ao final da disciplina o estudante será capaz de:
 
 ## Conteúdo Programático
 
-1.  **TBD**
+1. O que é empreendedorismo. 
+1. Impactos atuais e futuros da Inteligência Artificial. 
+1. Desenvolvimento de startups na visão dos investidores.
+1. Contato com investidores e com corporações com desemandas de IA.
+1. Desenvolvimento de Lean canvas. 
+1. Apresentação do *pitch Problem-Solution-Opportunity*.
+1. Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD). 
+1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
+1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
+1. Implementação e utilização de testes automatizados.
+1. Padronização de código e documentação. 
+1. Desenvolvimento da solução em sprints.
+1. Apresentação da solução.
 
 
 ## Bibliografia Básica
