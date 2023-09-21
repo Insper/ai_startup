@@ -11,6 +11,7 @@ O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial
 
 Ao final da disciplina o estudante será capaz de:
 
+1. compreender competências empreendedoras e técnicas essenciais para a criação e gerenciamento bem-sucedido de startups;
 1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos); 
 1. entender como criar e manter uma equipe; 
 1. implementar uma solução usando conceitos de Inteligência Artificial, e;

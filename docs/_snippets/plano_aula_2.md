@@ -26,9 +26,9 @@
     <tr>
       <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">10</td>
       <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"></td>
-      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento do lean canvas.</td>
-      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento conceitual da solução, métricas, clientes entre outros componentes do lean canvas. Compreensão do tamanho a oportunidade. Melhor entendimento do problema. Melhor definição da solução.</td>
-      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento conceitual da solução, métricas, clientes entre outros componentes do lean canvas. Preparação do pitch problem-solution-opportunity</td>
+      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento do lean canvas + Pitch para Investidores</td>
+      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento conceitual da solução, métricas, clientes entre outros componentes do lean canvas. Compreensão do tamanho a oportunidade. Melhor entendimento do problema. Melhor definição da solução. E transformação desses aprendizados em uma apresentação para investidores (Pitch para Investidores)</td>
+      <td style = "background-color: #FFF2CC;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Desenvolvimento conceitual da solução, métricas, clientes entre outros componentes do lean canvas. Preparação do pitch problem-solution-opportunity. E início da elaboração do Pitch para Investidores.</td>
     </tr>
     <tr>
       <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>11</strong></td>
