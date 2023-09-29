@@ -9,8 +9,7 @@ def redefine_strong(tabela):
 df = pd.read_excel('plano-de-aulas.xlsx')
 
 parte1 = build_table(df.iloc[0:7][[
-    'Data', 'Questão',
-    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    'Data', 'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
     color='blue_dark')
 parte1 = redefine_strong(parte1)
 
@@ -18,8 +17,7 @@ with open('docs/_snippets/plano_aula_1.md', 'w') as f:
     f.write(parte1)
 
 parte2 = build_table(df.iloc[7:12][[
-    'Data', 'Questão',
-    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    'Data', 'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
     color='yellow_dark')
 
 parte2 = redefine_strong(parte2)
@@ -29,8 +27,7 @@ with open('docs/_snippets/plano_aula_2.md', 'w') as f:
 
 
 parte3 = build_table(df.iloc[12:18][[
-    'Data', 'Questão',
-    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    'Data', 'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
     color='green_dark')
 
 parte3 = redefine_strong(parte3)
@@ -40,8 +37,7 @@ with open('docs/_snippets/plano_aula_3.md', 'w') as f:
 
 
 parte4 = build_table(df.iloc[18:][[
-    'Data', 'Questão',
-    'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
+    'Data', 'Conteúdo', 'Evidências de Aprendizado', 'Atividades']], 
     color='red_dark')
 
 parte4 = redefine_strong(parte4)

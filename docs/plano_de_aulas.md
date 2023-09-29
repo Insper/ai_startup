@@ -7,7 +7,7 @@ O plano de aula desta disciplina está divido em **quatro** (4) blocos. Para cad
     O programa está sempre sujeito a alterações e adaptações conforme as disciplina é executada.
 
 
-## Empreendedorismo 
+## O que é empreender?
 
 --8<-- "plano_aula_1.md"
 
