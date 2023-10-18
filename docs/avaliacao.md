@@ -13,6 +13,15 @@ Cada estudante será avaliado, individualmente ou em grupo, considere os critér
 
 * **Nível de interesse dos investidores e corporações pela solução desenvolvida**. Claro que um componente fundamental na avaliação de cada estudante será o interesse dos investidores pela sua solução. 
 
+* **Capacidade de comunicação** O estudante sabe comunicar a sua solução de forma clara e objetiva? O estudante consegue comunicar o status do projeto de forma clara e objetiva? 
+
+## Critérios de avaliação técnica
+
+* Organização: o projeto está organizado de forma clara e objetiva?
+* Trabalho em equipe: o estudante trabalhou bem em equipe?
+* Inovação: quão inovadora é a solução? 
+* Execução técnica: escolheu as melhores ferramentas e processos para o desenvolvimento do projeto? Soube usar as ferramentas e processos escolhidos da melhor forma?
+
 ## Conversão de conceito para valor numérico
 
 O resultado de algumas avaliações poderá adotar conceitos (A+, B,..., I) ao invés de um valor numérico. Para estes casos será utilizada a seguinte tabela de conversão:

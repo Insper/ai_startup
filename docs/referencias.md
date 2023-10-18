@@ -12,3 +12,5 @@
 1. [Civitai: stable diffusion models](https://civitai.com/)
 
 1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
+
+1. [AlphaSignal](https://alphasignalai.beehiiv.com/)
