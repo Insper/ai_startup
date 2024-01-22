@@ -1,4 +1,4 @@
-# Atividades
+# Etapas
 
 Esta disciplina será composta por **quatro etapas**.
 

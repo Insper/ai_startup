@@ -6,11 +6,13 @@
 
 ## Horário das aulas
 
-XXX e YYY das NN:NN até MM:MM.
+Terça-feira das 9:45 às 11:45.
+
+Quinta-feira das 7:30 às 9:30.
 
 ## Horário de atendimento
 
-ZZZ das NN:NN até MM:MM. 
+Quinta-feira das 10:00 às 11:30. 
 
 ## Contato
 

@@ -17,10 +17,10 @@ Cada estudante será avaliado, individualmente ou em grupo, considere os critér
 
 ## Critérios de avaliação técnica
 
-* Organização: o projeto está organizado de forma clara e objetiva?
-* Trabalho em equipe: o estudante trabalhou bem em equipe?
-* Inovação: quão inovadora é a solução? 
-* Execução técnica: escolheu as melhores ferramentas e processos para o desenvolvimento do projeto? Soube usar as ferramentas e processos escolhidos da melhor forma?
+* **Organização**: o projeto está organizado de forma clara e objetiva?
+* **Trabalho em equipe**: o estudante trabalhou bem em equipe?
+* **Inovação**: quão inovadora é a solução? 
+* **Execução técnica**: escolheu as melhores ferramentas e processos para o desenvolvimento do projeto? Soube usar as ferramentas e processos escolhidos da melhor forma?
 
 ## Conversão de conceito para valor numérico
 
