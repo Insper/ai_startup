@@ -37,19 +37,20 @@ Ao final da disciplina o estudante será capaz de:
 
 ## Bibliografia Básica
 
-1. ....
-1. ....
+1. Cooper, B. and Vlaskovits, P., 2010. The entrepreneur's guide to customer development: a" cheat sheet" to The Four Steps to the Epiphany (pp. 90-110). Newport Beach, CA: Cooper-Vlaskovits.
+
+1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons.
+
 1. S. Amershi et al., "Software Engineering for Machine Learning: A Case Study," 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Montreal, QC, Canada, 2019, pp. 291-300, doi: 10.1109/ICSE-SEIP.2019.00042.
+
 1. Andrei Paleyes, Raoul-Gabriel Urma, and Neil D. Lawrence. 2022. Challenges in Deploying Machine Learning: A Survey of Case Studies. ACM Comput. Surv. 55, 6, Article 114 (June 2023), 29 pages. https://doi.org/10.1145/3533378.
 
 ## Bibliografia Complementar
 
+1. Horowitz, B. and Kenerly, K., 2014. The hard thing about hard things (p. 174). New York: HarperCollins.
+
 1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
-1. [Andrew Ng. Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
-1. [Airtable: a list of AI Startups](https://airtable.com/)
-1. [The AI Index Report: measuring trends in Artificial Intelligence](https://aiindex.stanford.edu/report/)
-1. [OpenML - A worldwide machine learning lab](https://www.openml.org/)
-1. [Hugging Face: the AI community building the future](https://huggingface.co/)
-1. [Civitai: stable diffusion models](https://civitai.com/)
-1. [AlphaSignal](https://alphasignalai.beehiiv.com/)
-1. [Radar de Lawtechs e Legaltechs](https://ab2l.org.br/ecossistema/radar-de-lawtechs-e-legaltechs/)
+
+1. RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
+
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
