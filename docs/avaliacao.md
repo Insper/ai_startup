@@ -22,6 +22,15 @@ Cada estudante será avaliado, individualmente ou em grupo, considere os critér
 * **Inovação**: quão inovadora é a solução? 
 * **Execução técnica**: escolheu as melhores ferramentas e processos para o desenvolvimento do projeto? Soube usar as ferramentas e processos escolhidos da melhor forma?
 
+## Composição da nota
+
+A nota final será composta por:
+
+* **Avaliação técnica** (peso 0.3): avaliação do projeto e do trabalho em equipe.
+* **Avaliação individual** (peso 0.2): avaliação individual do estudante.
+* **Avaliação do investidor ou avaliação final** (peso 0.4): avaliação do investidor realizada durante o **demo day**.
+* **Avaliação intermediária** (peso 0.1): avaliação intermediária realizada pelos professores da disciplina e equipe do Centro de Empreendedorismo.
+
 ## Conversão de conceito para valor numérico
 
 O resultado de algumas avaliações poderá adotar conceitos (A+, B,..., I) ao invés de um valor numérico. Para estes casos será utilizada a seguinte tabela de conversão:
