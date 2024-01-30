@@ -15,16 +15,15 @@ nav:
   - 'Plano de Aula': 'plano_de_aulas.md'
   - 'Etapas': 'etapas.md'
   - 'Avaliação': 'avaliacao.md'
-  - 'Aulas':
-    - 'Empreendedorismo':
-      - 'aulas/01_empreendedorismo/index.md'
-      - 'aulas/02_empreendedorismo/index.md'
-    - 'Impacto':
-      - 'aulas/02_empreendedorismo/index.md'
-    - 'Como desenvolver':
-      - 'aulas/02_empreendedorismo/index.md'
-    - 'Desenvolvendo':
-      - 'aulas/02_empreendedorismo/index.md'
+  #- 'Aulas':
+  #  - 'Empreendedorismo':
+  #    - 'aulas/01_empreendedorismo/index.md'
+  #  - 'Impacto':
+  #    - 'aulas/02_empreendedorismo/index.md'
+  #  - 'Como desenvolver':
+  #    - 'aulas/02_empreendedorismo/index.md'
+  #  - 'Desenvolvendo':
+  #    - 'aulas/02_empreendedorismo/index.md'
   - 'Referências': 'referencias.md'
 
 extra_javascript:

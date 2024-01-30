@@ -54,3 +54,7 @@ Ao final da disciplina o estudante será capaz de:
 1. RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
 
 1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+
+1. [Andrew Ng. Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+
+1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)

@@ -19,6 +19,8 @@ O plano de aula desta disciplina está divido em **quatro** (4) blocos. Para cad
 
 --8<-- "plano_aula_3.md"
 
+Todos os assuntos discutidos neste bloco da disciplina serão aplicados no desenvolvimento de uma solução de IA. A solução será desenvolvida em sprints, com entregas parciais e apresentações periódicas. Ao longo do desenvolvimento da solução, vamos revisitar os conceitos discutidos neste bloco. 
+
 ## Desenvolvimento da solução
 
 --8<-- "plano_aula_4.md"
