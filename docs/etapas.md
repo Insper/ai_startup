@@ -14,7 +14,7 @@ Neste bloco, cada estudante do curso deverá compreender o que é empreendedoris
 
 Neste bloco, cada estudante deverá compreender como montar uma equipe. As equipes deverão mapear o tamanho da oportunidade, melhorar o entendimento do problema e a definição da solução. Além disso, deverão ser capazes de comunicar todos estes pontos para possíveis investidores. Entregas deste bloco: 
 
-* Definição da equipe, incluindo a participação de um membro externo (outro curso do Insper);
+* Definição da equipe;
 * Lean canvas para a oportunidade identificada, e;
 * Pitch Problem-Solution-Opportunity.
 
