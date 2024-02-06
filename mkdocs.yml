@@ -15,9 +15,9 @@ nav:
   - 'Plano de Aula': 'plano_de_aulas.md'
   - 'Etapas': 'etapas.md'
   - 'Avaliação': 'avaliacao.md'
-  #- 'Aulas':
-  #  - 'Empreendedorismo':
-  #    - 'aulas/01_empreendedorismo/index.md'
+  - 'Aulas':
+    - 'Empreendedorismo':
+      - 'aulas/empreendedorismo/index.md'
   #  - 'Impacto':
   #    - 'aulas/02_empreendedorismo/index.md'
   #  - 'Como desenvolver':
