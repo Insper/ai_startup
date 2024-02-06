@@ -94,18 +94,6 @@
     </tr>
     <tr>
       <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">28-Maio</td>
-      <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Sprint 4</strong></td>
-      <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Sprint review</strong></td>
-      <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Apresentação e debate sobre as entregas do sprint.</strong></td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">30-Maio</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Feriado</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Feriado</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Feriado</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">04-Junho</td>
       <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Demo day</strong></td>
       <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Apresentação das soluções para a comunidade externa</strong></td>
       <td style = "background-color: #efdada;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto"><strong>Apresentação das soluções para a comunidade externa</strong></td>
