@@ -18,8 +18,8 @@ nav:
   - 'Aulas':
     - 'Empreendedorismo':
       - 'aulas/empreendedorismo/index.md'
-  #  - 'Impacto':
-  #    - 'aulas/02_empreendedorismo/index.md'
+    - 'Solução':
+      - 'aulas/solucao/index.md'
   #  - 'Como desenvolver':
   #    - 'aulas/02_empreendedorismo/index.md'
   #  - 'Desenvolvendo':
