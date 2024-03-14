@@ -26,10 +26,10 @@ Cada estudante será avaliado, individualmente ou em grupo, considere os critér
 
 A nota final será composta por:
 
-* **Avaliação técnica** (peso 0.3): avaliação do projeto e do trabalho em equipe.
+* **Avaliação técnica** (peso 0.2): avaliação do projeto e do trabalho em equipe.
 * **Avaliação individual** (peso 0.2): avaliação individual do estudante.
 * **Avaliação do investidor ou avaliação final** (peso 0.4): avaliação do investidor realizada durante o **demo day**.
-* **Avaliação intermediária** (peso 0.1): avaliação intermediária realizada pelos professores da disciplina e equipe do Centro de Empreendedorismo.
+* **Avaliação intermediária** (peso 0.2): avaliação intermediária realizada pelos professores da disciplina e equipe do Centro de Empreendedorismo.
 
 ## Conversão de conceito para valor numérico
 
