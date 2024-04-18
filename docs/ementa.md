@@ -45,13 +45,6 @@ Ao final da disciplina o estudante será capaz de:
 
 1. Andrei Paleyes, Raoul-Gabriel Urma, and Neil D. Lawrence. 2022. Challenges in Deploying Machine Learning: A Survey of Case Studies. ACM Comput. Surv. 55, 6, Article 114 (June 2023), 29 pages. https://doi.org/10.1145/3533378.
 
-1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455. 
-
-1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082. 
-
-1. United Nations System. Principles for the Ethical Use of Artificial Intelligence in the
-United Nations System, 2022, available at https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system
-
 
 ## Bibliografia Complementar
 
@@ -68,3 +61,10 @@ United Nations System, 2022, available at https://unsceb.org/principles-ethical-
 1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
 
 1. Mozilla Foundation. Trustworthy Artificial Intelligence, available at https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/
+
+1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455. 
+
+1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082. 
+
+1. United Nations System. Principles for the Ethical Use of Artificial Intelligence in the
+United Nations System, 2022, available at https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system
