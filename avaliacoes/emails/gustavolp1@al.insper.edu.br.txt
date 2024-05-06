@@ -1,0 +1,57 @@
+
+    Olá Gustavo Lindenberg,
+
+    Segue abaixo seu feedback de pares da Sprint 1.
+
+    Produtividade
+    -------------
+
+    Lembrete: níveis 1 e 2 são negativos, níveis 3 e 4 são positivos e nível 5 é positivo mas indesejado.
+
+    A diferença entre 3 e 4, sozinha, não faz diferença para aprovação. O nível 4 deve ser usado para reconhecer o esforço de membros específicos.
+
+    Nível que você atribuiu a si mesmo: 3
+
+    Média dos níveis que os colegas atribuíram a você: 2.6666666666666665
+
+    Diferença: -0.3333333333333335
+
+    Ou seja, a visão dos colegas sobre você foi um pouco inferior. Não muito, mas vale a pena refletir, pois é possível que você tenha superestimado seu nível.
+
+
+    Proatividade
+    ------------
+
+    Lembrete: níveis 1, 2 e 5 são negativos e níveis 3 e 4 são positivos.
+
+    A diferença entre 3 e 4, sozinha, não faz diferença para aprovação. O nível 4 deve ser usado para reconhecer o esforço de membros específicos.
+
+    Nível que você atribuiu a si mesmo: 2
+
+    Média dos níveis que os colegas atribuíram a você: 2.6666666666666665
+
+    Diferença: 0.6666666666666665
+
+    Ou seja, a visão dos colegas sobre você foi superior. Você parece ter subestimado seu nível, mas também é possível que os outros membros tenham avaliado todos da mesma maneira, sem refletir muito.
+
+
+    Transparência
+    -------------
+
+    Lembrete: níveis 1 e 2 são negativos, níveis 3 e 4 são positivos e nível 5 é positivo mas indesejado.
+
+    A diferença entre 3 e 4, sozinha, não faz diferença para aprovação. O nível 4 deve ser usado para reconhecer o esforço de membros específicos.
+
+    Nível que você atribuiu a si mesmo: 3
+
+    Média dos níveis que os colegas atribuíram a você: 3.3333333333333335
+
+    Diferença: 0.3333333333333335
+
+    Ou seja, a visão dos colegas sobre você foi um pouco superior. Não muito, mas vale a pena refletir, pois é possível que você tenha subestimado seu nível.
+
+    Esteja à vontade para perguntar em caso de quaisquer dúvidas.
+
+    []'s
+    Barth e Nakagawa
+    

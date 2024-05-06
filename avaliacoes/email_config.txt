@@ -1,0 +1,7 @@
+[user]
+address=fabricio.barth@gmail.com
+password=vbbjlifgnwdrtaks
+
+[server]
+host=smtp.gmail.com
+port=587
