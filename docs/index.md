@@ -1,18 +1,14 @@
 # AI Startup - 2024/1
 
-1. [Ementa da disciplina.](ementa.md)
-2. [Plano aula-a-aula da disciplina.](plano_de_aulas.md)
-3. [Critérios de avaliação.](avaliacao.md)
-
 ## Horário das aulas
 
 Terça-feira das 9:45 às 11:45.
 
-Quinta-feira das 7:30 às 9:30.
+Quinta-feira das 9:45 às 11:45.
 
 ## Horário de atendimento
 
-Quinta-feira das 10:00 às 11:30. 
+Quinta-feira das 8:30 às 9:30. 
 
 ## Contato
 

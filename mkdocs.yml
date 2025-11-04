@@ -12,19 +12,19 @@ extra_css:
 nav:
   - 'Home': 'index.md'
   - 'Ementa': 'ementa.md'
-  - 'Plano de Aula': 'plano_de_aulas.md'
+#  - 'Plano de Aula': 'plano_de_aulas.md'
   - 'Etapas': 'etapas.md'
-  - 'Avaliação': 
-    - 'avaliacao.md'
-    - 'avaliacao_individual.md'
-  - 'Aulas':
-    - 'Empreendedorismo':
-      - 'aulas/empreendedorismo/index.md'
-    - 'Solução':
-      - 'aulas/solucao/index.md'
-    - 'Desenvolvendo':
-      - 'aulas/mvp/index.md'
-  - 'Referências': 'referencias.md'
+#  - 'Avaliação': 
+#    - 'avaliacao.md'
+  - 'Avaliação individual': 'avaliacao_individual.md'
+#  - 'Aulas':
+#    - 'Empreendedorismo':
+#      - 'aulas/empreendedorismo/index.md'
+#    - 'Solução':
+#      - 'aulas/solucao/index.md'
+#    - 'Desenvolvendo':
+#      - 'aulas/mvp/index.md'
+#  - 'Referências': 'referencias.md'
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
